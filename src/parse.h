@@ -5,6 +5,6 @@
 
 #include <stdbool.h>
 
-bool parse_data(cel_pp_data *dest, const char **src_p);
+bool parse_expr(cel_pp_data *dest, const char **src_p);
 
 #endif
